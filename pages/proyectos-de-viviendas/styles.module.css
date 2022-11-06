@@ -1,0 +1,13 @@
+.delete_container_cell{
+    cursor: pointer;
+}
+.delete_container_cell:hover{
+    transform: scale(1.3)
+}
+
+.edit_container_cell{
+    cursor: pointer;
+}
+.edit_container_cell:hover{
+    transform: scale(1.3)
+}
